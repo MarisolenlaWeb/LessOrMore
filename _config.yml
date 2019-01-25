@@ -1,11 +1,11 @@
 # Site settings
 name: Prueba de tema Less Or More
 email: marcarrimor@gmail.com
-author: Marisol Carrillo
+author: QuienesQuien.wiki
 baseurl:
 url: "marisolenlaweb.github.io"
 description: Actually, less is more!
-meta_description: Descripción del tema de prueba
+meta_description: 
 
 
 #permalink: /:categories/:year/:month/:day/:title/
